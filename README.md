@@ -27,3 +27,7 @@ If you have any ideas, just [open an issue][issues] and tell us what you think.
 If you'd like to contribute, please fork the repository and make changes as
 you'd like. Pull requests are welcome.
 
+## Disclaimers
+
+This is a work-in-progress. The scripts are offered As-is, although we will make every effort to test
+and fix any issues, we can't guarantee that these will be fit for your purpose.
